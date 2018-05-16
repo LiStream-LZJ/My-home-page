@@ -1,0 +1,19 @@
+
+@font-face {
+    font-family: lzjttt;
+    src: url('46/mnjxf.ttf');
+}
+
+.lzj123123{
+    width: 1024px;
+    padding: 30px;
+    line-height: 1.75em;
+    margin: 0 auto;
+    font-family: lzjttt;
+    color: chartreuse;
+    box-sizing: border-box;
+    -webkit-column-count: 3;
+    -webkit-column-gap: 100px;
+    -webkit-column-rule: 3px solid #CCC;
+    text-indent: 1em;
+}
